@@ -1,0 +1,103 @@
+ul {
+list-style: none;
+}
+
+li {
+
+    float: right;
+}
+body {
+        background-color: #16f7f7;
+      
+}
+img {
+border-radius:50%;
+-moz-border-radius:50%;
+-webkit-border-radius:50%;
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 20%;
+height:20%;
+}
+h1 {
+ text-align: center;
+ color:#0000ff;
+ width: 100%;
+ height: 100%;
+
+}
+.centermain{
+	font-weight: bold;
+    text-align: justify-all;
+    width: 700px;
+    margin: auto;
+}
+#EarlyLife{
+	text-align: center;
+	color:#0000ff;
+}
+p{
+	font-weight: bold;
+    text-align: justify-all;
+    width: 700px;
+    margin: auto;
+}
+#Career{
+	text-align: center;
+	color:#0000ff;
+}
+#Personallife{
+	text-align: center;
+	color:#0000ff;
+}
+#Honours{
+	text-align: center;
+	color: #f70404
+}
+p.bright{
+	color: #f70404
+}
+.spl-linka{
+
+background:#999999;
+text-decoration:none;
+width:100px;
+
+line-height:30px;
+color:#fff;
+text-align:center;
+border-left: 2px solid #ccc;
+}
+.spl-linkb{
+background:#ff7f00;
+text-decoration:none;
+width:100px;
+
+line-height:30px;
+color:#fff;
+text-align:center;
+border-left: 2px solid #ccc;
+}
+#InterestingFacts{
+	text-align: center;
+	color: #0000ff;
+	text-decoration: underline;
+}
+.interesting {
+  color: #0000ff;
+  width: 700px;
+  margin:auto;
+
+}
+h3{
+	color: #0000ff;
+	text-align:center;
+	text-decoration: underline;
+
+}
+ol{
+font: 5 50px/0.2 'Great Vibes', Helvetica, sans-serif;
+  color: #0000ff;
+  }
+	
